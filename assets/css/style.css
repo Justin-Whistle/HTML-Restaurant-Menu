@@ -30,15 +30,18 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    
 }
 
 nav ul {
     list-style-type: none;
     text-align: center;
+    
 }
 
 nav li {
     display: inline;
+    
 }
 
 nav a {
@@ -52,6 +55,12 @@ nav a:hover {
     color: darkred;
 }
 
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+}
 #banner {
     width: 100%;
     height: auto;
@@ -66,7 +75,7 @@ nav a:hover {
 .service {
     display: inline-block;
     background-color: white;
-    border: 5px solid green;
+    border: 5px soli  green;
     border-radius: 5px;
     color: darkred;
     font-size: 2em;
